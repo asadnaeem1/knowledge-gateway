@@ -17,4 +17,4 @@ Please check the [contributing guide](CONTRIBUTING.md) to become a contributor.
 
 ## License
 
-[MIT](https://github.com/asadnaeem1/knowledge-gateway)
+[MIT](https://github.com/asadnaeem1/knowledge-gateway/blob/master/LICENSE)
