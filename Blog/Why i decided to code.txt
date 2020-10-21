@@ -1,0 +1,21 @@
+"What got you interested in coding?"
+
+I panicked.
+
+"Do you remember the moment you decided to learn to code?"
+
+I panicked more.
+
+I had never participated in CodeNewbie chats before because I always felt like I didn't have anything to say that was worth contributing. But this question was easy. In my frantic state of trying to type my answer really fast before I chickened out, I tweeted back a half-assed reply. I looked at it and thought "ew I hate this" and figured that this subject would be a good thing to write about here:
+
+Growing up I spent a lot of time on the computer. Partly because the TV was being monopolized by my brothers playing video games, and partly because I was just bad at socializing (fast forward to almost exactly a year ago when I was diagnosed with anxiety and depression disorders that made my extreme awkwardness and fear of people make sense, but that's a discussion for another time). In middle and high school I would spend hours everyday changing the layouts of my Myspace, and as that lost popularity, Tumblr pages because I was so obsessed with aesthetics and making things look juuuuuuust right. I don't even want to know how much time I spent googling HTML and CSS while everyone I knew was out doing fun things.
+
+I hadn't thought about code for years until the Summer of 2018 when I was dating a guy who was a software engineer. I didn't know exactly what that meant, but he showed me something he was working on and I was impressed. He once insisted on showing me the code and tried to explain it to me. I stared at the computer with my hands on my face and told him that this was something I was never going to understand in my whole life. Ha. Haha.
+
+So when my childhood best friend called me up shortly after that relationship had gone up in flames to tell me she was interested in learning to code, and that she thought I would be into it too I told her "absolutely not," because that's what (we'll call him Denver) Denver did and when he tried to show me, it went totally over my head, and I also said something along the lines of "it reminds me of him so don't mention coding, Koolaid Man, or that Disturbed song that goes 'ooh wah ah ah ah' for a while please." Nevertheless, she persisted. She sent me resource after resource, statistic after statistic, and talked it up for weeks before I finally gave in and looked into it, because really, what else was I doing with my life? Not to mention my therapist suggested that finding a different career better suited for me would help with my anxiety, and that she thought I should look into something with computers.
+
+The Flatiron School bootcamp prep was the first thing I tried. That's when I realized that coding is probably what I should have been doing this whole time. It's honestly such a relief that all that time I spent on Myspace and Tumblr growing up wasn't a complete waste. I’m failing to think of anything in my adult life that makes me feel more accomplished than when my code works. Studying code sometimes has me dancing in my seat and throwing my hands into the air while alone in a coffee shop.
+
+Not only that, but coding is incredibly therapeutic for me. Since I started taking learning code seriously my mental health has improved immensely. When I’m working on code I’m able to focus on just that, and all of the things constantly running through my mind disappear. Then after a while, all of those things start to not seem so daunting anymore. Awful memories and irrational worries bother me less and less these days.
+
+So I guess thanks for bugging me about learning to code, Ashley. I'm gonna be alright
